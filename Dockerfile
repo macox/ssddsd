@@ -1,4 +1,1 @@
-FROM scratch
-EXPOSE 8080
-ENTRYPOINT ["/ssddsd"]
-COPY ./bin/ /
+this is my file
